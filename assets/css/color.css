@@ -1,0 +1,333 @@
+/* template-color */
+
+.preloader-close {
+  color: #2368a6;
+}
+
+.header-top .info-list li i {
+  color: #2368a6;
+}
+
+.header-top .info-list li a:hover {
+  color: #2368a6;
+}
+
+.header-top .social-links li a:hover {
+  color: #2368a6;
+}
+
+.header-top .btn-box a {
+  background: #2368a6;
+}
+
+.header-top .btn-box a:hover {
+  color: #2368a6;
+}
+
+.main-header .search-panel .search-btn {
+  background: #2368a6;
+}
+
+.main-menu .navigation > li > ul > li > a:hover,
+.main-menu .navigation > li > .megamenu li > a:hover {
+  color: #2368a6;
+}
+
+.main-menu .navigation > li > ul > li > ul > li > a:hover {
+  color: #2368a6;
+}
+
+.main-menu .navigation > li > a:before {
+  background: #2368a6;
+}
+
+.main-header .search-box-btn:hover {
+  color: #2368a6 !important;
+}
+
+.theme-btn.btn-one {
+  background: #2368a6;
+}
+
+.banner-carousel .content-box h3 {
+  border-bottom: 2px solid #2368a6;
+}
+
+.theme-color {
+  color: #2368a6;
+}
+
+.hov-color:hover {
+  color: #2368a6 !important;
+}
+
+.feature-block-one .inner-box .icon-box:before {
+  background: #2368a6;
+}
+
+.feature-block-one .inner-box:before {
+  border: 1px solid #2368a6;
+}
+
+.list-style-one li:before {
+  color: #2368a6;
+}
+
+.image_block_1 .image-box:before {
+  background: #2368a6;
+}
+
+.service-section .more-text a {
+  border-bottom: 2px solid #2368a6;
+}
+
+.service-block-one .inner-box .lower-content:after {
+  background: #2368a6;
+}
+
+.testimonial-block-one .inner-box .quote {
+  background: #2368a6;
+}
+
+.coaching-block-one .inner-box h3 a {
+  border-top: 2px solid #2368a6;
+}
+
+.theme-color-bg {
+  background: #2368a6;
+}
+
+.news-block-one .inner-box .image-box .post-date {
+  background: #2368a6;
+}
+
+.main-footer .top-inner .info-box .icon-box {
+  color: #2368a6;
+}
+
+.main-footer .top-inner .info-box h5 a:hover {
+  color: #2368a6;
+}
+
+.main-footer .widget-section a:hover {
+  color: #2368a6;
+}
+
+.main-footer .widget-section .social-links li a:hover {
+  background: #2368a6;
+}
+
+.main-footer .widget-section .newsletter-widget .form-group input:focus {
+  border-color: #2368a6 !important;
+}
+
+.main-footer
+  .widget-section
+  .newsletter-widget
+  .form-group
+  input:focus
+  + button,
+.main-footer .widget-section .newsletter-widget .form-group button:hover {
+  color: #2368a6;
+}
+
+.footer-bottom a:hover {
+  color: #2368a6;
+}
+
+.scroll-top:hover {
+  background: #2368a6;
+}
+
+.main-header .nav-right .info-box i {
+  color: #2368a6;
+}
+
+.main-header .nav-right .info-box h5 a:hover {
+  color: #2368a6;
+}
+
+.banner-section.style-two .content-box h3 {
+  color: #2368a6;
+}
+
+.banner-section.style-two .content-box:before {
+  background: #2368a6;
+}
+
+.country-block-one .inner-box .lower-content:after {
+  background: #2368a6;
+}
+
+.country-block-one .inner-box:hover .lower-content {
+  border-color: #2368a6;
+}
+
+.service-block-one .inner-box:before {
+  border: 1px solid #2368a6;
+}
+
+.service-block-one .inner-box:after {
+  background: #2368a6;
+}
+
+.team-block-one .inner-box .social-links li a:hover {
+  background: #2368a6;
+}
+
+.processing-block-one .inner-box .icon-box span:before {
+  background: #2368a6;
+}
+
+.theme-btn.btn-two:before,
+.theme-btn.btn-two:after {
+  background: #2368a6;
+}
+
+.page-title .bread-crumb li a:hover {
+  color: #2368a6;
+}
+
+.progress-box .bar-inner {
+  background: #2368a6;
+}
+
+.team-details .content-box .social-links li a:hover {
+  background: #2368a6;
+  border-color: #2368a6;
+}
+
+.team-details .image-box .info li a:hover {
+  color: #2368a6;
+}
+
+.default-form .form-group input:focus,
+.default-form .form-group textarea:focus {
+  border-color: #2368a6 !important;
+}
+
+.coaching-sidebar .category-list li a.current:after,
+.coaching-sidebar .category-list li a:hover:after {
+  color: #2368a6;
+}
+
+.coaching-details-content .content-three .list li:before {
+  color: #2368a6;
+}
+
+.accordion-box .block .acc-btn.active .icon-outer:before {
+  color: #2368a6;
+}
+
+.sidebar-page-container
+  .news-block-one
+  .inner-box
+  .lower-content
+  .link
+  a:hover {
+  color: #2368a6;
+}
+
+.blog-sidebar .search-widget .search-form .form-group {
+  background: #2368a6;
+}
+
+.blog-sidebar .post-widget .post h6 a:hover {
+  color: #2368a6;
+}
+
+.blog-sidebar .category-list li a:hover {
+  color: #2368a6;
+}
+
+.blog-sidebar .tags-widget .tags-list li a:hover {
+  background: #2368a6;
+}
+
+.blog-details-content .post-share-option .tags-list li a {
+  background: #2368a6;
+}
+
+.blog-details-content .post-share-option .social-links li a:hover {
+  background: #2368a6;
+}
+
+.blog-details-content .comment-box .comment .reply-btn {
+  background: #2368a6;
+}
+
+.blog-details-content .comments-form-area .form-group input:focus,
+.blog-details-content .comments-form-area .form-group textarea:focus {
+  border-color: #2368a6 !important;
+}
+
+.contact-section #contact-form input:focus,
+.contact-section #contact-form textarea:focus {
+  border-color: #2368a6 !important;
+}
+
+.contact-section .info-inner .info-list li a:hover {
+  color: #2368a6;
+}
+
+.contact-section .info-inner .social-links li a:hover {
+  background: #2368a6;
+}
+
+.service-details .service-sidebar .sidebar-download {
+  background: #2368a6;
+}
+
+.service-details
+  .service-sidebar
+  .sidebar-categories
+  .categories-list
+  li
+  a:before {
+  background: #2368a6;
+}
+
+.service-details
+  .service-sidebar
+  .sidebar-categories-2
+  .categories-list
+  li
+  a:hover {
+  color: #2368a6;
+}
+
+.service-details
+  .service-sidebar
+  .sidebar-categories-2
+  .categories-list
+  li
+  a:hover:after {
+  color: #2368a6;
+}
+
+.service-details
+  .service-sidebar
+  .sidebar-assessment
+  .assessment-form
+  .form-group
+  input:focus,
+.service-details
+  .service-sidebar
+  .sidebar-assessment
+  .assessment-form
+  .form-group
+  textarea:focus {
+  border-color: #2368a6 !important;
+}
+
+.service-details-content .content-style-two .inner-box .single-item .icon-box {
+  color: #2368a6;
+}
+
+.service-details-content .two-column .content-box .list li:before {
+  color: #2368a6;
+}
+
+.service-details-content .accordion-box .block .acc-btn.active h5 {
+  color: #2368a6;
+}
