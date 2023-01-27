@@ -74,14 +74,14 @@
   background-repeat: no-repeat;
   background-position: center;
   /* background-size: contain; */
-  /* -webkit-transform: scale(1);
+  -webkit-transform: scale(1);
   -ms-transform: scale(1);
   transform: scale(1);
-  -webkit-transition: all 6000ms linear;
+  /* -webkit-transition: all 6000ms linear; */
   -moz-transition: all 6000ms linear;
   -ms-transition: all 6000ms linear;
   -o-transition: all 6000ms linear;
-  transition: all 6000ms linear; */
+  /* transition: all 6000ms linear; */
 }
 
 .banner-carousel .active .slide-item .image-layer {
@@ -1592,7 +1592,7 @@
   height: 100%;
   left: 0px;
   top: 0px;
-  opacity: 0.8;
+  opacity: 0.5;
 }
 
 .page-title .bread-crumb {
