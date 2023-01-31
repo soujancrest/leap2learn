@@ -1525,12 +1525,12 @@
 /** process-section **/
 
 .processing-block-one .inner-box .icon-box {
-  border: 1px solid #d8d7df;
+  border: 1px solid #2368a6;
   overflow: hidden;
 }
 
 .processing-block-one .inner-box .icon-box span {
-  background: #d8d7df;
+  background: #2368a6;
 }
 
 .processing-block-one .inner-box .icon-box span:before {
@@ -1592,7 +1592,11 @@
   height: 100%;
   left: 0px;
   top: 0px;
-  opacity: 0.5;
+  opacity: 0;
+}
+
+.page-title-team:before {
+  opacity: 0.5 !important;
 }
 
 .page-title .bread-crumb {
@@ -1648,7 +1652,7 @@
   content: "";
   background: #d6d4dd;
   width: 1px;
-  height: 70px;
+  height: 230px;
   top: 0px;
   right: 0px;
 }
