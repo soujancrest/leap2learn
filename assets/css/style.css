@@ -1377,6 +1377,10 @@
   opacity: 0;
   visibility: hidden;
 }
+.copyright {
+  display: flex;
+  justify-content: space-between;
+}
 
 .team-block-one .inner-box:hover .overlay-content {
   bottom: 0px;
@@ -1596,8 +1600,18 @@
   opacity: 0;
 }
 
+#pathway-heading {
+  font-size: 35px;
+}
+#page-title-about {
+  background-position: right;
+}
+#page-title-training {
+  background-position: center;
+}
+
 .page-title-team:before {
-  opacity: 0.5 !important;
+  opacity: 0.3 !important;
 }
 
 .page-title .bread-crumb {

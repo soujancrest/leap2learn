@@ -175,11 +175,27 @@
   .feature-block-one .inner-box {
     margin-bottom: 30px;
   }
-
+  .banner-carousel .slide-item .image-layer {
+    background-position: left;
+  }
+  #page-title-about {
+    background-position: left;
+  }
+  #page-title-training {
+    background-position: right;
+  }
+  #page-title-training:before {
+    opacity: 0.5;
+  }
+  #page-title-services:before {
+    opacity: 0.5;
+  }
   .image_block_1 .image-box .text {
     left: 0px;
   }
-
+  .main-footer .top-inner .info-box h5 {
+    font-size: 15px;
+  }
   .service-block-one .inner-box {
     margin-bottom: 30px;
   }
@@ -322,6 +338,10 @@
   .contact-section .content-box {
     margin-bottom: 40px;
   }
+  .copyright,
+  .footer-bottom p {
+    display: inline-block;
+  }
 
   .service-sidebar,
   .service-details-content .content-style-two .inner-box .single-item {
@@ -334,11 +354,28 @@
     font-size: 40px;
     line-height: 50px;
   }
-
+  .banner-carousel .slide-item .image-layer {
+    background-position: left;
+  }
+  #page-title-about {
+    background-position: left;
+  }
+  #page-title-training {
+    background-position: right;
+  }
+  #page-title-training:before {
+    opacity: 0.5;
+  }
+  #page-title-services:before {
+    opacity: 0.5;
+  }
   .banner-carousel .content-box h1 br {
     display: none;
   }
 
+  .main-footer .top-inner .info-box h5 {
+    font-size: 15px;
+  }
   .banner-carousel .slide-item {
     padding-top: 100px;
     padding-bottom: 170px;
@@ -348,6 +385,10 @@
     padding-top: 70px;
   }
 
+  .copyright,
+  .footer-bottom p {
+    display: inline-block;
+  }
   .about-section {
     padding-top: 70px;
   }
@@ -547,14 +588,36 @@
   .cta-section .inner-container h2 br {
     display: none;
   }
-
+  .banner-carousel .slide-item .image-layer {
+    background-position: left;
+  }
+  #page-title-about {
+    background-position: left;
+  }
+  #page-title-training {
+    background-position: right;
+  }
+  #page-title-training:before {
+    opacity: 0.5;
+  }
+  #page-title-services:before {
+    opacity: 0.5;
+  }
   .cta-section .inner-container {
     padding-left: 30px;
     padding-right: 30px;
   }
 
+  .main-footer .top-inner .info-box h5 {
+    font-size: 15px;
+  }
   .main-footer .top-inner {
     display: block;
+  }
+
+  .copyright,
+  .footer-bottom p {
+    display: inline-block;
   }
 
   .main-footer .top-inner .info-box {
@@ -655,19 +718,43 @@
   .coaching-details-content .content-two .single-item:first-child {
     padding-bottom: 0px;
   }
+  #pathway-heading {
+    padding-right: 15rem;
+  }
 }
 
 @media only screen and (max-width: 499px) {
   .mobile-menu {
     width: 100%;
   }
-
+  .banner-carousel .slide-item .image-layer {
+    background-position: left;
+  }
+  #page-title-about {
+    background-position: left;
+  }
+  #page-title-training {
+    background-position: right;
+  }
+  #page-title-training:before {
+    opacity: 0.5;
+  }
+  #page-title-services:before {
+    opacity: 0.5;
+  }
   .chooseus-section .image-box .video-btn a {
     width: 100px;
     height: 100px;
     line-height: 100px;
   }
 
+  .copyright,
+  .footer-bottom p {
+    display: inline-block;
+  }
+  .main-footer .top-inner .info-box h5 {
+    font-size: 15px;
+  }
   .main-header.style-two .header-lower .search-box-outer:before {
     display: none;
   }
@@ -705,14 +792,43 @@
   .blog-details-content .post-share-option .tags-list li:last-child {
     margin-bottom: 0px;
   }
+  #pathway-heading {
+    padding-right: 9rem;
+  }
 }
 
 @media only screen and (max-width: 399px) {
   .header-top .btn-box {
     display: none;
   }
-
+  .banner-carousel .slide-item .image-layer {
+    background-position: left;
+  }
+  #page-title-about {
+    background-position: left;
+  }
+  #page-title-training {
+    background-position: right;
+  }
+  #page-title-training:before {
+    opacity: 0.5;
+  }
+  #page-title-services:before {
+    opacity: 0.5;
+  }
+  .main-footer .top-inner .info-box h5 {
+    font-size: 13px;
+  }
   .contact-section .info-inner .inner {
     padding-left: 30px;
+  }
+  .copyright,
+  .footer-bottom p,
+  .footer-bottom a {
+    display: inline-block;
+    font-size: 13px;
+  }
+  #pathway-heading {
+    padding-right: 4rem;
   }
 }

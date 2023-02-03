@@ -1626,13 +1626,14 @@ div#mCSB_1_container {
 
 .main-footer {
   position: relative;
-  background: #1b182f;
+  /* background: #1b182f; */
+  background: gainsboro;
 }
 
 .main-footer .footer-top {
   position: relative;
   padding: 45px 0px 50px 0px;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  border-bottom: 1px solid #2368a6;
 }
 
 .main-footer .top-inner {
@@ -1678,7 +1679,7 @@ div#mCSB_1_container {
 
 .main-footer .top-inner .info-box h5 a {
   display: inline-block;
-  color: #fff;
+  color: #2368a6;
 }
 
 .main-footer .top-inner .info-box h5 a:hover {
@@ -1807,6 +1808,7 @@ div#mCSB_1_container {
   /* height: 345px; */
   background-repeat: no-repeat;
   height: 100%;
+  display: none;
 }
 
 .footer-bottom {
@@ -1822,6 +1824,7 @@ div#mCSB_1_container {
   line-height: 36px;
   color: #9390a7;
   font-weight: 500;
+  display: inline-block;
 }
 
 .footer-bottom a:hover {
