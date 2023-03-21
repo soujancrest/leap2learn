@@ -369,7 +369,8 @@ img {
   line-height: 26px;
   font-weight: 700;
   font-family: "Poppins", sans-serif;
-  color: #fff !important;
+  /* color: #fff !important; */
+  color: #2368a6;
   text-align: center;
   padding: 12px 30px;
   border-radius: 10px;

@@ -1008,7 +1008,7 @@
 
 .banner-section.style-two .rotate-text {
   position: absolute;
-  left: -210px;
+  left: -245px;
   top: 130px;
   font-size: 30px;
   font-weight: 300;
@@ -1484,7 +1484,7 @@
   max-width: none;
   float: right;
   border-radius: 0px 10px 10px 0px;
-  width: 175%;
+  width: 150%;
 }
 
 .chooseus-section .image-box .video-btn a {

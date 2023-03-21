@@ -46,7 +46,8 @@
 }
 
 .theme-btn.btn-one {
-  background: #2368a6;
+  /* background: #2368a6; */
+  background: #ffffff;
 }
 
 .banner-carousel .content-box h3 {
@@ -148,11 +149,13 @@
 }
 
 .banner-section.style-two .content-box h3 {
-  color: #2368a6;
+  /* color: #2368a6; */
+  color: #ffffff;
 }
 
 .banner-section.style-two .content-box:before {
-  background: #2368a6;
+  /* background: #2368a6; */
+  background: #ffffff;
 }
 
 .country-block-one .inner-box .lower-content:after {
