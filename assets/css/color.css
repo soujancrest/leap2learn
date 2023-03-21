@@ -50,9 +50,9 @@
   background: #ffffff;
 }
 
-#send-button {
-  background: #2368a6;
-  color: #ffffff;
+.color-button {
+  background: #2368a6 !important;
+  color: #ffffff !important;
 }
 
 .banner-carousel .content-box h3 {
