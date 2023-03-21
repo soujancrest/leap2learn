@@ -50,6 +50,11 @@
   background: #ffffff;
 }
 
+#send-button {
+  background: #2368a6;
+  color: #ffffff;
+}
+
 .banner-carousel .content-box h3 {
   border-bottom: 2px solid #2368a6;
 }
